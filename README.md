@@ -8,9 +8,10 @@
 - Me gusta desarrollar en cualquier area.
 - Actualmente manejo Java , Python y javascript.
 - He utilizado Spring, y React.
+- He tenido acercamiento con Scala ( Spark y Kafka)
 - He tenido la oportunidad de experimentar con C , Pascal , C# y Haskell.
 - Me gusta el diseño y UX. Tengo bastante conocimiento en HTML y CSS.
-- Se SQL. (He trabajo con SQL de Oracle, Posgress, MySql )
+- Se SQL. (He trabajado con SQL de Oracle, Posgress, MySql )
 - Me gustan los video juegos.
 
 
