@@ -9,6 +9,7 @@
 - Actualmente manejo Java , Python y javascript.
 - He utilizado Spring, y React.
 - He tenido acercamiento con Scala ( Spark y Kafka)
+- Tengo experiencia con servicios de AWS y procesos de CI/CD
 - He tenido la oportunidad de experimentar con C , Pascal , C# y Haskell.
 - Me gusta el diseño y UX. Tengo bastante conocimiento en HTML y CSS.
 - Se SQL. (He trabajado con SQL de Oracle, Posgress, MySql )
