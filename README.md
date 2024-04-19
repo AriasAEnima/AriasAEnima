@@ -6,13 +6,15 @@
 
 - Soy de Colombia
 - Me gusta desarrollar en cualquier area.
-- Actualmente manejo Java , Python y javascript.
+- Trabajo como Ingeniero de Software utilizando Clojure y AWS.
+- Actualmente manejo Typescript, Java , Python y en general Javascript.
+- Conocozco en mayoria la nube de AWS y he creado un gran numero de microservicios. (Lambdas, ECS, S3, Dynamo, SNS, SQS, APIGW etc .. ) 
+- He tenido acercamiento con Scala ( Spark y Kafka) (Cursera Cert)
 - He utilizado Spring, y React.
-- Tengo experiencia con multiples servicios de AWS y procesos de CI/CD
-- He tenido acercamiento con Scala ( Spark y Kafka)
+- He construido procesos CI/CD con GithubActions.
 - He tenido la oportunidad de experimentar con R, C , Pascal , C# y Haskell.
-- Me gusta el diseño y UX. Tengo bastante conocimiento en HTML y CSS.
+- Me gusta el diseño y UX. Tengo conocimiento en HTML y CSS.
 - Sé SQL. (He trabajado con SQL de Oracle, Posgress, MySql )
 - Me gustan los video juegos.
 
-
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/ariasaenima/))
