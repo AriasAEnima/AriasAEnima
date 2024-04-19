@@ -17,4 +17,4 @@
 - Sé SQL. (He trabajado con SQL de Oracle, Posgress, MySql )
 - Me gustan los video juegos.
 
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/ariasaenima/))
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/ariasaenima/)
