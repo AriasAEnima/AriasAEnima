@@ -13,10 +13,9 @@
 
 - Conocozco en mayoria la nube de AWS y he creado un gran numero de microservicios. (Lambdas, ECS, Dynamo, S3, SNS, SQS, APIGW etc .. ) <img src="https://github.com/AriasAEnima/AriasAEnima/assets/35570447/2bfdeb4d-f111-467c-ba72-43ae1bcb60a7" width="30"> <img src="https://github.com/AriasAEnima/AriasAEnima/assets/35570447/ea272b4b-d113-48a1-b605-82d032f45046" width="30"> <img src="https://github.com/AriasAEnima/AriasAEnima/assets/35570447/3cace896-63dd-41d7-804e-63f09ea3d4b9" height="30"> <img src="https://github.com/AriasAEnima/AriasAEnima/assets/35570447/c4cca5f8-0f9b-4f75-9a03-831d90e19df0" width="30"> <img src="https://github.com/AriasAEnima/AriasAEnima/assets/35570447/1c58f75f-b9fc-4b22-aa83-5d82f3db092b" width="30"> <img src="https://github.com/AriasAEnima/AriasAEnima/assets/35570447/9211c34b-1674-4aa7-b690-7a5a9922a8bc" width="30"> <img src="https://github.com/AriasAEnima/AriasAEnima/assets/35570447/fdfcefcd-b316-4eec-9811-f35c0bca789c" width="30">
 
-- He tenido acercamiento con Scala ( Spark y Kafka) (Cursera Cert) <img src="https://github.com/AriasAEnima/AriasAEnima/assets/35570447/f356e12b-4384-4379-b7c3-f2050bfa664d" width="30"> <img src="https://github.com/AriasAEnima/AriasAEnima/assets/35570447/c1bb5dfb-7774-436f-9636-0427596faf81" width="30">
+- He creado proyectos con Scala ( Spark y Kafka) (Cursera Cert) <img src="https://github.com/AriasAEnima/AriasAEnima/assets/35570447/f356e12b-4384-4379-b7c3-f2050bfa664d" width="30"> <img src="https://github.com/AriasAEnima/AriasAEnima/assets/35570447/c1bb5dfb-7774-436f-9636-0427596faf81" width="30">
 
-- He utilizado Spring, y React. <img src="https://github.com/AriasAEnima/AriasAEnima/assets/35570447/bd8300b0-b36d-44b6-9d80-3a6dfc835ef4" width="30"> <img src="https://github.com/AriasAEnima/AriasAEnima/assets/35570447/4877f9cc-5a72-457f-9ce2-314c8d728942" width="30">
-
+- He utilizado Spring, React, Pandas and Qiskit (Quatum Computing) . <img src="https://github.com/AriasAEnima/AriasAEnima/assets/35570447/bd8300b0-b36d-44b6-9d80-3a6dfc835ef4" width="30"> <img src="https://github.com/AriasAEnima/AriasAEnima/assets/35570447/4877f9cc-5a72-457f-9ce2-314c8d728942" width="30"> <img src="https://github.com/AriasAEnima/AriasAEnima/assets/35570447/144a8556-c440-4212-9e36-cad1b8bb3389" width="50"> <img src="https://github.com/AriasAEnima/AriasAEnima/assets/35570447/954ed1a5-2e0e-450f-a5ba-f5528780c0b5" width="70"> 
 
 - He construido procesos CI/CD con GithubActions. <img src="https://github.com/AriasAEnima/AriasAEnima/assets/35570447/6a2bc200-46c5-4635-9cff-98b649d4ccc1" width="30"> 
 
