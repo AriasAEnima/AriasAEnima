@@ -19,6 +19,9 @@
 
 - He construido procesos CI/CD con GithubActions. <img src="https://github.com/AriasAEnima/AriasAEnima/assets/35570447/6a2bc200-46c5-4635-9cff-98b649d4ccc1" width="30"> 
 
+- Tambien he utilizado IaC como Docker y Terraform. <img src="https://github.com/AriasAEnima/AriasAEnima/assets/35570447/21196e40-7645-42e5-9570-d2a59e9cbb2c" width="50"> <img src="https://github.com/AriasAEnima/AriasAEnima/assets/35570447/c9ce5747-406b-415a-9e94-b423ced1f35b" width="30">
+
+
 - He tenido la oportunidad de experimentar con Haskell, R, C++, C , Pascal y C# . <img src="https://github.com/AriasAEnima/AriasAEnima/assets/35570447/2ab0ccce-c338-4188-ac67-37c297dd6a71" width="40">  <img src="https://github.com/AriasAEnima/AriasAEnima/assets/35570447/d0a4fcc9-6f4b-4a8d-ae58-379d0eb49c8c" width="30"> <img src="https://github.com/AriasAEnima/AriasAEnima/assets/35570447/a14a93cc-53e3-492c-b755-5cd6c0c069e9" width="30"> <img src="https://github.com/AriasAEnima/AriasAEnima/assets/35570447/41fca661-f3be-46a2-bebd-83255fbdfc12" width="30"> <img src="https://github.com/AriasAEnima/AriasAEnima/assets/35570447/96d49a5d-acc0-4791-98b5-e3fe28e1a8e2" width="30"> 
 
 
